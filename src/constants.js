@@ -13,7 +13,7 @@ const GAME = {
   HMV_TEST_CHAINID: 40875,
   HMV_MAIN_CHAINID: 19011,
   CUSTOM_ART_KEY: "customArtNfts",
-  SOURCE_CODE_URL: "https://github.com/doublejumptokyo/dino-runner-client/tree/main",
+  SOURCE_CODE_URL: "https://github.com/oasysgames/dino-runner-client",
 }
 
 const PLAYER = {
