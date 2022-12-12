@@ -1,8 +1,8 @@
 # Dino-Runner-Client
 Dino Runner is a sample project which demonstrates how to create a simple browser game using blockchain functionality.
 
-For a more comprehensive explanation of how to use this project, please check out the Gitbook page:
-https://app.gitbook.com/s/TNnY5BNmaLdUtZPURngb/dino-runner-sample-project/tutorial-overview
+For a more comprehensive explanation of how to use this project, please check out our documentation:
+https://docs.oasys.games/docs/verse-developer/game/1-1
 
 # Quick Project Setup
 ```sh
