@@ -82,7 +82,7 @@ export default class Web3Connection {
                     symbol: "OAS",
                     decimals: 18
                 },
-                blockExplorerUrls: ["https://explorer.mainnet.oasys.homeverse.games/"]
+                blockExplorerUrls: ["https://explorer.oasys.homeverse.games/"]
             }]
           })
           break
