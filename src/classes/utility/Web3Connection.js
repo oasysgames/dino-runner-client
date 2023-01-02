@@ -24,7 +24,7 @@ export default class Web3Connection {
         options: {
           rpc: {
             40875: "https://rpc.testnet.oasys.homeverse.games/",
-            19011: "https://rpc.mainnet.oasys.homeverse.games/",
+            19011: "https://rpc.oasys.homeverse.games/",
           },
         }
       },
@@ -75,7 +75,7 @@ export default class Web3Connection {
             method: "wallet_addEthereumChain",
             params: [{
                 chainId: "0x4A43",
-                rpcUrls: ["https://rpc.mainnet.oasys.homeverse.games/"],
+                rpcUrls: ["https://rpc.oasys.homeverse.games/"],
                 chainName: "Homeverse",
                 nativeCurrency: {
                     name: "OAS",
